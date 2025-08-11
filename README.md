@@ -42,6 +42,15 @@ This repository demonstrates various use cases and examples for managing user ac
 
 **2. Configuring Account Lockout Policies**
 
+- Open the Group Policy Management Console (GPMC) and configure the Account Lockout Policy to lock the account after 5 failed login attempts.
+- Test by attempting 6 failed logins with a bad password.
+
+<img width="448" alt="Screenshot 2025-01-23 at 6 43 36 PM" src="https://github.com/user-attachments/assets/0d424068-0be0-4580-be80-cc4abc554b0e" />
+<img width="395" alt="Screenshot 2025-01-23 at 6 45 12 PM" src="https://github.com/user-attachments/assets/f105c6d8-ae9c-4703-82d6-1704a238d0be" />
+<img width="791" alt="Screenshot 2025-01-23 at 6 45 33 PM" src="https://github.com/user-attachments/assets/32bc91e8-8b5f-4fbb-98a2-6ef4ea6ad1b1" />
+<img width="859" alt="Screenshot 2025-01-23 at 6 46 31 PM" src="https://github.com/user-attachments/assets/8e1203c0-dcf7-4c9a-b53a-89bbf340de0f" />
+<img width="436" alt="Screenshot 2025-01-23 at 6 47 23 PM" src="https://github.com/user-attachments/assets/9572d678-b0b3-433c-b281-fcb3735a1cbb" />
+
 
 
 
